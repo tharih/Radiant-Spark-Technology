@@ -8,7 +8,6 @@ import Home from "./components/home/Home";
 import About from "./components/about/About";
 import Projects from "./components/projects/Projects";
 
-
 function App() {
   return (
     <>
@@ -16,12 +15,12 @@ function App() {
         <Header />
         {/* <Player /> */}
         <Routes>
-          <Route path="/Home" exact element={<Home/>} />
-          <Route path="/About" exact element={<About/>} />
-          <Route path="Projects" exact element={<Projects/>} />
-          <Route path="/Contact" element={<Contact/>} />
+          <Route path="/" exact element={<Home />} />
+          <Route path="/About" exact element={<About />} />
+          <Route path="Projects" exact element={<Projects />} />
+          <Route path="/Contact" element={<Contact />} />
         </Routes>
-        <Footer />  
+        <Footer />
       </Router>
     </>
   );
