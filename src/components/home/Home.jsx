@@ -227,7 +227,7 @@ export default function Home() {
                         </div>
                         <div class="content">
                             <h4 class="title"><a href="#">UI/UX <br/> Designing</a></h4>
-                            <p>Lorem Ipsum has been the industry text ever since then.</p>
+                            <p>We are expert to create an efficient UI/UX Design that makes design user interaction lively.</p>
                         </div>
                     </div>
                 </div>

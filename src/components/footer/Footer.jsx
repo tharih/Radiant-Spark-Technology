@@ -10,7 +10,7 @@ export default function Footer(){
             <div class="row">
                 <div class="col-lg-3 col-md-6">
                     <div class="footer-about">
-                        <a href="#"><img src="assets/images/logo.png" alt="" /></a>
+                        <a href="#"><img src="assets/images/logo-no-background.png" alt="" /></a>
                         <p>We work with a passion of taking challenges and creating new ones in advertising sector.</p>
                         <ul>
                             {/* <li><a href="#"><i class="fab fa-fiverr"></i></a></li> */}
